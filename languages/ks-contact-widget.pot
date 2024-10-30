@@ -1,0 +1,174 @@
+# Copyright (C) 2016 King Soft
+# This file is distributed under the GNU General Public License v2.0 (or later).
+msgid ""
+msgstr ""
+"Project-Id-Version: KS Contact Widget 1.0\n"
+"POT-Creation-Date: 2016-06-14 12:24+0700\n"
+"PO-Revision-Date: 2016-06-14 12:25+0700\n"
+"Last-Translator: KingSoft <kingsoftdng@gmail.com>\n"
+"Language-Team: King Soft <kingsoftdng@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+#: ks-contact-widget.php:113
+msgid "Bloglovin URI"
+msgstr ""
+
+#: ks-contact-widget.php:117
+msgid "Dribbble URI"
+msgstr ""
+
+#: ks-contact-widget.php:121
+msgid "Email URI"
+msgstr ""
+
+#: ks-contact-widget.php:125
+msgid "Facebook URI"
+msgstr ""
+
+#: ks-contact-widget.php:129
+msgid "Flickr URI"
+msgstr ""
+
+#: ks-contact-widget.php:133
+msgid "GitHub URI"
+msgstr ""
+
+#: ks-contact-widget.php:137
+msgid "Google+ URI"
+msgstr ""
+
+#: ks-contact-widget.php:141
+msgid "Instagram URI"
+msgstr ""
+
+#: ks-contact-widget.php:145
+msgid "Linkedin URI"
+msgstr ""
+
+#: ks-contact-widget.php:149
+msgid "Pinterest URI"
+msgstr ""
+
+#: ks-contact-widget.php:153
+msgid "RSS URI"
+msgstr ""
+
+#: ks-contact-widget.php:157
+msgid "StumbleUpon URI"
+msgstr ""
+
+#: ks-contact-widget.php:161
+msgid "Tumblr URI"
+msgstr ""
+
+#: ks-contact-widget.php:165
+msgid "Twitter URI"
+msgstr ""
+
+#: ks-contact-widget.php:169
+msgid "Vimeo URI"
+msgstr ""
+
+#: ks-contact-widget.php:173
+msgid "YouTube URI"
+msgstr ""
+
+#: ks-contact-widget.php:180
+msgid "Displays select social icons."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Social Icons"
+msgstr ""
+
+#: ks-contact-widget.php:265
+msgid "Title:"
+msgstr ""
+
+#: ks-contact-widget.php:267
+msgid "Open links in new window?"
+msgstr ""
+
+#: ks-contact-widget.php:269
+msgid "Icon Size"
+msgstr ""
+
+#: ks-contact-widget.php:271
+msgid "Icon Border Radius:"
+msgstr ""
+
+#: ks-contact-widget.php:273
+msgid "Border Width:"
+msgstr ""
+
+#: ks-contact-widget.php:276
+msgid "Alignment"
+msgstr ""
+
+#: ks-contact-widget.php:278
+msgid "Align Left"
+msgstr ""
+
+#: ks-contact-widget.php:279
+msgid "Align Center"
+msgstr ""
+
+#: ks-contact-widget.php:280
+msgid "Align Right"
+msgstr ""
+
+#: ks-contact-widget.php:286
+msgid "Icon Font Color:"
+msgstr ""
+
+#: ks-contact-widget.php:288
+msgid "Icon Font Hover Color:"
+msgstr ""
+
+#: ks-contact-widget.php:290
+msgid "Background Color:"
+msgstr ""
+
+#: ks-contact-widget.php:292
+msgid "Background Hover Color:"
+msgstr ""
+
+#: ks-contact-widget.php:294
+msgid "Border Color:"
+msgstr ""
+
+#: ks-contact-widget.php:296
+msgid "Border Hover Color:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/ks-contact-widget/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A advance contact for widget."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "King Soft"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.aioresources.net/"
+msgstr ""
